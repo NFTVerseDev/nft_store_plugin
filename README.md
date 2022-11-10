@@ -26,11 +26,11 @@ This plugin can be used to integrate the marketplace components of NFTVerse into
   ```
 - Importing the components
   ```
-    import { Collection, NewlyMintedNFTs, NFTDetails } from '@nftverse/react-store-plugin'
+  import { Collection, NewlyMintedNFTs, NFTDetails } from '@nftverse/react-store-plugin'
   ```
 - Using the components
   ```
-    <Collection marketplaceId={3} className="className" />
-    <NewlyMintedNFTs marketplaceId={3} className="className" onBuyNowClick={onBuyNowClick} />
-    <NFTDetails nftId={3} marketplaceId={4} className="className" />
+  <Collection marketplaceId={3} className="className" />
+  <NewlyMintedNFTs marketplaceId={3} className="className" onBuyNowClick={onBuyNowClick} />
+  <NFTDetails nftId={3} marketplaceId={4} className="className" />
   ```

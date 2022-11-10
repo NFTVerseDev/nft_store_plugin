@@ -1,4 +1,9 @@
 {
+  "exclude": [
+    "example",
+    "node_modules",
+    "dist"
+  ],
   "compilerOptions": {
     "target": "ES2018",
     "module": "esnext",
