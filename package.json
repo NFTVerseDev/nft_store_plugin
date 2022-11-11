@@ -1,5 +1,5 @@
 {
-  "name": "@nftverse/react-store-plugin",
+  "name": "@nftverse/nft-store-plugin",
   "version": "1.1.0",
   "description": "",
   "main": "dist/index.js",

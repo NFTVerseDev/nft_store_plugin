@@ -22,7 +22,7 @@ This plugin can be used to integrate the marketplace components of NFTVerse into
 
 - Installing the package
   ```
-  npm i @nftverse/react-store-plugin
+  npm i @nftverse/nft-store-plugin
   ```
 - Importing the components
   ```
